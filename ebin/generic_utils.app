@@ -1,7 +1,7 @@
 %%-*- mode: erlang -*-
-{application, utils,
+{application, generic_utils,
  [
-  {description, "utils"},
+  {description, "generic_utils"},
   {vsn, "1"},
   {modules, [
              json_entry,
