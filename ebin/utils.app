@@ -13,6 +13,5 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { utils_app, []}},
   {env, []}
  ]}.
